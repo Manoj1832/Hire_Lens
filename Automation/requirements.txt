@@ -8,7 +8,7 @@ murmurhash>=1.0.5
 wasabi>=1.1.2
 
 # Text Extraction
-textract==1.6.1
+textract==1.6.5
 docx2txt==0.8
 pdfminer.six==20221105
 
