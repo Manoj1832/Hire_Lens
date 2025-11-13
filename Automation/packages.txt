@@ -1,0 +1,7 @@
+# System packages required for deployment
+# This file is used by some hosting platforms (like Streamlit Cloud)
+# Note: Most platforms handle this automatically, but including for completeness
+
+libgl1-mesa-glx
+libglib2.0-0
+
